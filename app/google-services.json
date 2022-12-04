@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210685069415",
+    "project_id": "amazing-shop-671e3",
+    "storage_bucket": "amazing-shop-671e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210685069415:android:1170f23f11672a91786cc2",
+        "android_client_info": {
+          "package_name": "com.example.batteryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210685069415-oj94utq7h81362sr5s3t7kpese4ul6cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batteryapp",
+            "certificate_hash": "c41aac429e669e150a812fd2b07878528fbb1b2f"
+          }
+        },
+        {
+          "client_id": "210685069415-3k4s401nohbp13uh2cljlkep01esorvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnisvRf0islXS8oIxWV7pdb4XXOFB3FQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210685069415-3k4s401nohbp13uh2cljlkep01esorvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
