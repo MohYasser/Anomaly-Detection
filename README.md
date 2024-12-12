@@ -1,25 +1,21 @@
-# Mobile Anomaly Detection Techniques
+# Bachelor Project - February 2023
+## Title: Mobile Anomaly Detection Techniques
 
 ## Description
 In this project I study how using the power consumption of a smartphone battery we can deduce if there has been a manipulation of the data transmitted, using Bluetooth as the transiever medium.
 
 ## Installation
 ### Prerequisites
-List any software, libraries, or tools needed to run the project.
-Tools or software used in this project include:
- - 
-
-Example:
-- Python 3.x
-- Node.js
-- MySQL (for database)
+Tools and software used in this project include:
+ - Android Studio IDE
+ - 2 Android Smartphones with an API level of 31 or higher (android 12 or higher, not android 11 or lower)
 
 ### Steps
 Step-by-step instructions to set up the project locally.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/project-name.git
+    git clone [https://github.com/your-username/project-name.git](https://github.com/MohYasser/Anomaly-Detection)
     ```
 
 2. Install dependencies:
